@@ -1,0 +1,12 @@
+{
+    "test" : {
+        "PORT": 3200,
+        "MONGODB_URI": "mongodb://localhost:27017/DietAppTest",
+        "JWT_SECRET": "asdfasqw213654sdfg321sdg"
+    }, 
+    "development" : {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/DietApp",
+        "JWT_SECRET": "fas5465464554fdg54qdfa4r654rtrg"        
+    }
+}
